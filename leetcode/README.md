@@ -1,10 +1,10 @@
 # Goal
 
-Data Structures and Algorithms (DSA)
+### INSERT GOAL ###
 
 # Activity
 
-neetcode roadmap
+### neetcode roadmap ###
 
 # Resources
 
